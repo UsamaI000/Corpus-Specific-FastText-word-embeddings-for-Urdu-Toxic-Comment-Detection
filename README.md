@@ -1,1 +1,1 @@
-# Toxicity-Detection-in-Urdu-Language-Comments
+# Toxicity Detection in Urdu Language Comments
